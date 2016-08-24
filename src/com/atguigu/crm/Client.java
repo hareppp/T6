@@ -11,6 +11,7 @@ public class Client
 		System.out.println("0315");
 		System.out.println("333333333");
 		System.out.println("BBBBBBBBB");
+		System.out.println("AAAAAAAAA");
 	}
 
 }
