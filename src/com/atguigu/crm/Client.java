@@ -12,6 +12,7 @@ public class Client
 		System.out.println("333333333");
 		System.out.println("BBBBBBBBB");
 		System.out.println("AAAAAAAAA");
+		System.out.println("0427-2222");
 	}
 
 }
